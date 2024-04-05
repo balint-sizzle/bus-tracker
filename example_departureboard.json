@@ -1,0 +1,340 @@
+{
+    "stop": {
+        "id": 36234759,
+        "name": "Surgeons' Hall",
+        "identifier": null,
+        "direction": "SE"
+    },
+    "services": [
+        {
+            "service_name": "47",
+            "departures": [
+                {
+                    "stop_id": "36234759",
+                    "service_name": "47",
+                    "destination": "Penicuik Ladywood",
+                    "departure_time_unix": 1712263617,
+                    "departure_time_iso": "2024-04-04T21:46:57+01:00",
+                    "departure_time": "21:46",
+                    "real_time": true,
+                    "journey_id": "2933",
+                    "vehicle_id": "465",
+                    "minutes": 4,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "47",
+                    "destination": "Penicuik Ladywood",
+                    "departure_time_unix": 1712264938,
+                    "departure_time_iso": "2024-04-04T22:08:58+01:00",
+                    "departure_time": "22:08",
+                    "real_time": true,
+                    "journey_id": "2879",
+                    "vehicle_id": "1097",
+                    "minutes": 26,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "47",
+                    "destination": "Penicuik Ladywood",
+                    "departure_time_unix": 1712266740,
+                    "departure_time_iso": "2024-04-04T22:39:00+01:00",
+                    "departure_time": "22:39",
+                    "real_time": true,
+                    "journey_id": "2961",
+                    "vehicle_id": "449",
+                    "minutes": 56,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "47",
+                    "destination": "Penicuik Ladywood",
+                    "departure_time_unix": 1712268542,
+                    "departure_time_iso": "2024-04-04T23:09:02+01:00",
+                    "departure_time": "23:09",
+                    "real_time": false,
+                    "journey_id": "8248",
+                    "vehicle_id": "1075",
+                    "minutes": 86,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                }
+            ],
+            "first_departure": 4
+        },
+        {
+            "service_name": "7",
+            "departures": [
+                {
+                    "stop_id": "36234759",
+                    "service_name": "7",
+                    "destination": "Royal Infirmary",
+                    "departure_time_unix": 1712263817,
+                    "departure_time_iso": "2024-04-04T21:50:17+01:00",
+                    "departure_time": "21:50",
+                    "real_time": true,
+                    "journey_id": "6538",
+                    "vehicle_id": "366",
+                    "minutes": 8,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "7",
+                    "destination": "Royal Infirmary",
+                    "departure_time_unix": 1712265491,
+                    "departure_time_iso": "2024-04-04T22:18:11+01:00",
+                    "departure_time": "22:18",
+                    "real_time": true,
+                    "journey_id": "4407",
+                    "vehicle_id": "399",
+                    "minutes": 35,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "7",
+                    "destination": "Royal Infirmary",
+                    "departure_time_unix": 1712267291,
+                    "departure_time_iso": "2024-04-04T22:48:11+01:00",
+                    "departure_time": "22:48",
+                    "real_time": true,
+                    "journey_id": "2991",
+                    "vehicle_id": "386",
+                    "minutes": 65,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "7",
+                    "destination": "Royal Infirmary",
+                    "departure_time_unix": 1712269091,
+                    "departure_time_iso": "2024-04-04T23:18:11+01:00",
+                    "departure_time": "23:18",
+                    "real_time": false,
+                    "journey_id": "3675",
+                    "vehicle_id": "387",
+                    "minutes": 95,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                }
+            ],
+            "first_departure": 8
+        },
+        {
+            "service_name": "31",
+            "departures": [
+                {
+                    "stop_id": "36234759",
+                    "service_name": "31",
+                    "destination": "Polton Mill",
+                    "departure_time_unix": 1712264079,
+                    "departure_time_iso": "2024-04-04T21:54:39+01:00",
+                    "departure_time": "21:54",
+                    "real_time": true,
+                    "journey_id": "2493",
+                    "vehicle_id": "1102",
+                    "minutes": 12,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "31",
+                    "destination": "Polton Mill",
+                    "departure_time_unix": 1712266691,
+                    "departure_time_iso": "2024-04-04T22:38:11+01:00",
+                    "departure_time": "22:38",
+                    "real_time": true,
+                    "journey_id": "2402",
+                    "vehicle_id": "1116",
+                    "minutes": 55,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                }
+            ],
+            "first_departure": 12
+        },
+        {
+            "service_name": "37",
+            "departures": [
+                {
+                    "stop_id": "36234759",
+                    "service_name": "37",
+                    "destination": "Penicuik Deanburn",
+                    "departure_time_unix": 1712264728,
+                    "departure_time_iso": "2024-04-04T22:05:28+01:00",
+                    "departure_time": "22:05",
+                    "real_time": true,
+                    "journey_id": "2764",
+                    "vehicle_id": "681",
+                    "minutes": 23,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "37",
+                    "destination": "Penicuik Deanburn",
+                    "departure_time_unix": 1712266391,
+                    "departure_time_iso": "2024-04-04T22:33:11+01:00",
+                    "departure_time": "22:33",
+                    "real_time": true,
+                    "journey_id": "2776",
+                    "vehicle_id": "676",
+                    "minutes": 50,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "37",
+                    "destination": "Penicuik Deanburn",
+                    "departure_time_unix": 1712268195,
+                    "departure_time_iso": "2024-04-04T23:03:15+01:00",
+                    "departure_time": "23:03",
+                    "real_time": false,
+                    "journey_id": "2723",
+                    "vehicle_id": "685",
+                    "minutes": 81,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "37",
+                    "destination": "Penicuik Deanburn",
+                    "departure_time_unix": 1712269991,
+                    "departure_time_iso": "2024-04-04T23:33:11+01:00",
+                    "departure_time": "23:33",
+                    "real_time": false,
+                    "journey_id": "2743",
+                    "vehicle_id": "679",
+                    "minutes": 110,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                }
+            ],
+            "first_departure": 23
+        },
+        {
+            "service_name": "31",
+            "departures": [
+                {
+                    "stop_id": "36234759",
+                    "service_name": "31",
+                    "destination": "Bonnyrigg",
+                    "departure_time_unix": 1712265207,
+                    "departure_time_iso": "2024-04-04T22:13:27+01:00",
+                    "departure_time": "22:13",
+                    "real_time": true,
+                    "journey_id": "2321",
+                    "vehicle_id": "1091",
+                    "minutes": 31,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                },
+                {
+                    "stop_id": "36234759",
+                    "service_name": "31",
+                    "destination": "Bonnyrigg",
+                    "departure_time_unix": 1712268491,
+                    "departure_time_iso": "2024-04-04T23:08:11+01:00",
+                    "departure_time": "23:08",
+                    "real_time": false,
+                    "journey_id": "2478",
+                    "vehicle_id": "356",
+                    "minutes": 85,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                }
+            ],
+            "first_departure": 31
+        },
+        {
+            "service_name": "N37",
+            "departures": [
+                {
+                    "stop_id": "36234759",
+                    "service_name": "N37",
+                    "destination": "Penicuik Deanburn",
+                    "departure_time_unix": 1712272809,
+                    "departure_time_iso": "2024-04-05T00:20:09+01:00",
+                    "departure_time": "00:20",
+                    "real_time": false,
+                    "journey_id": "1743",
+                    "vehicle_id": null,
+                    "minutes": 157,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                }
+            ],
+            "first_departure": 157
+        },
+        {
+            "service_name": "N31",
+            "departures": [
+                {
+                    "stop_id": "36234759",
+                    "service_name": "N31",
+                    "destination": "Bonnyrigg",
+                    "departure_time_unix": 1712273469,
+                    "departure_time_iso": "2024-04-05T00:31:09+01:00",
+                    "departure_time": "00:31",
+                    "real_time": false,
+                    "journey_id": "3854",
+                    "vehicle_id": "658",
+                    "minutes": 168,
+                    "diverted": false,
+                    "partRoute": false,
+                    "occupancy_rate": null,
+                    "transit_mode": 3
+                }
+            ],
+            "first_departure": 168
+        }
+    ]
+}

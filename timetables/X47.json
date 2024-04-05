@@ -1,0 +1,765 @@
+{
+    "server": "LothianAPI",
+    "timeElapsed": 15.4,
+    "networkTime": "2024-04-05 21:41:37",
+    "timetable": {
+        "routePattern": {
+            "id": "X47:6200203555-6200243650",
+            "routeName": "X47",
+            "direction": null,
+            "origin": "Barnton",
+            "destination": "Frederick Street",
+            "polyline": null,
+            "stops": [
+                {
+                    "id": "6200203555",
+                    "name": "Cammo Terminus",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": true
+                },
+                {
+                    "id": "6200203570",
+                    "name": "Barnton Junction",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": true
+                },
+                {
+                    "id": "6200203580",
+                    "name": "Drum Brae North",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200203590",
+                    "name": "Parkgrove Road",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200203600",
+                    "name": "Parkgrove Street",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200203610",
+                    "name": "Clermiston Drive",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200203630",
+                    "name": "Hillpark Steps",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200203640",
+                    "name": "Marchfield Park Lane",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200203650",
+                    "name": "Marchfield Park",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204120",
+                    "name": "Blackhall Library",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204130",
+                    "name": "Telford Road",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": true
+                },
+                {
+                    "id": "6200204140",
+                    "name": "Columba Avenue",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204150",
+                    "name": "St Columba's Church",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204160",
+                    "name": "Maidencraig Crescent",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204320",
+                    "name": "Craigleith Road",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204360",
+                    "name": "Stewart's Melville",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204730",
+                    "name": "Learmonth Terrace",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200204740",
+                    "name": "Dean Bridge",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": null,
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200205200",
+                    "name": "Drumsheugh Place (Stop QA)",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": "QA",
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200205203",
+                    "name": "Queensferry Street (Stop QC)",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": "QC",
+                    "routes": [],
+                    "isTimingPoint": true
+                },
+                {
+                    "id": "6200206165",
+                    "name": "Princes Street (Stop PA)",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": "PA",
+                    "routes": [],
+                    "isTimingPoint": false
+                },
+                {
+                    "id": "6200243650",
+                    "name": "Frederick Street (Stop GT)",
+                    "transitMode": null,
+                    "coordinate": null,
+                    "stopCode": null,
+                    "compassDirection": null,
+                    "bearing": null,
+                    "indicator": "GT",
+                    "routes": [],
+                    "isTimingPoint": true
+                }
+            ]
+        },
+        "trips": [
+            {
+                "tripID": "VJd58cb0124b8b56f93a0f6fa107f66a59b4197c2e",
+                "departures": [
+                    {
+                        "stopID": "6200203555",
+                        "time": "07:19",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712297940,
+                            "isoTime": "2024-04-05T07:19:00+01:00",
+                            "displayTime": "07:19"
+                        },
+                        "sequence": "1"
+                    },
+                    {
+                        "stopID": "6200203570",
+                        "time": "07:23",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712298180,
+                            "isoTime": "2024-04-05T07:23:00+01:00",
+                            "displayTime": "07:23"
+                        },
+                        "sequence": "2"
+                    },
+                    {
+                        "stopID": "6200203580",
+                        "time": "07:24",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298240,
+                            "isoTime": "2024-04-05T07:24:00+01:00",
+                            "displayTime": "07:24"
+                        },
+                        "sequence": "3"
+                    },
+                    {
+                        "stopID": "6200203590",
+                        "time": "07:25",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298300,
+                            "isoTime": "2024-04-05T07:25:00+01:00",
+                            "displayTime": "07:25"
+                        },
+                        "sequence": "4"
+                    },
+                    {
+                        "stopID": "6200203600",
+                        "time": "07:26",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298360,
+                            "isoTime": "2024-04-05T07:26:00+01:00",
+                            "displayTime": "07:26"
+                        },
+                        "sequence": "5"
+                    },
+                    {
+                        "stopID": "6200203610",
+                        "time": "07:28",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298480,
+                            "isoTime": "2024-04-05T07:28:00+01:00",
+                            "displayTime": "07:28"
+                        },
+                        "sequence": "6"
+                    },
+                    {
+                        "stopID": "6200203630",
+                        "time": "07:29",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298540,
+                            "isoTime": "2024-04-05T07:29:00+01:00",
+                            "displayTime": "07:29"
+                        },
+                        "sequence": "7"
+                    },
+                    {
+                        "stopID": "6200203640",
+                        "time": "07:31",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298660,
+                            "isoTime": "2024-04-05T07:31:00+01:00",
+                            "displayTime": "07:31"
+                        },
+                        "sequence": "8"
+                    },
+                    {
+                        "stopID": "6200203650",
+                        "time": "07:32",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298720,
+                            "isoTime": "2024-04-05T07:32:00+01:00",
+                            "displayTime": "07:32"
+                        },
+                        "sequence": "9"
+                    },
+                    {
+                        "stopID": "6200204120",
+                        "time": "07:32",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298720,
+                            "isoTime": "2024-04-05T07:32:00+01:00",
+                            "displayTime": "07:32"
+                        },
+                        "sequence": "10"
+                    },
+                    {
+                        "stopID": "6200204130",
+                        "time": "07:34",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712298840,
+                            "isoTime": "2024-04-05T07:34:00+01:00",
+                            "displayTime": "07:34"
+                        },
+                        "sequence": "11"
+                    },
+                    {
+                        "stopID": "6200204140",
+                        "time": "07:35",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298900,
+                            "isoTime": "2024-04-05T07:35:00+01:00",
+                            "displayTime": "07:35"
+                        },
+                        "sequence": "12"
+                    },
+                    {
+                        "stopID": "6200204150",
+                        "time": "07:36",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712298960,
+                            "isoTime": "2024-04-05T07:36:00+01:00",
+                            "displayTime": "07:36"
+                        },
+                        "sequence": "13"
+                    },
+                    {
+                        "stopID": "6200204160",
+                        "time": "07:37",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299020,
+                            "isoTime": "2024-04-05T07:37:00+01:00",
+                            "displayTime": "07:37"
+                        },
+                        "sequence": "14"
+                    },
+                    {
+                        "stopID": "6200204320",
+                        "time": "07:38",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299080,
+                            "isoTime": "2024-04-05T07:38:00+01:00",
+                            "displayTime": "07:38"
+                        },
+                        "sequence": "15"
+                    },
+                    {
+                        "stopID": "6200204360",
+                        "time": "07:43",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299380,
+                            "isoTime": "2024-04-05T07:43:00+01:00",
+                            "displayTime": "07:43"
+                        },
+                        "sequence": "16"
+                    },
+                    {
+                        "stopID": "6200204730",
+                        "time": "07:45",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299500,
+                            "isoTime": "2024-04-05T07:45:00+01:00",
+                            "displayTime": "07:45"
+                        },
+                        "sequence": "17"
+                    },
+                    {
+                        "stopID": "6200204740",
+                        "time": "-",
+                        "isTimingPoint": false
+                    },
+                    {
+                        "stopID": "6200205200",
+                        "time": "07:48",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299680,
+                            "isoTime": "2024-04-05T07:48:00+01:00",
+                            "displayTime": "07:48"
+                        },
+                        "sequence": "18"
+                    },
+                    {
+                        "stopID": "6200205203",
+                        "time": "07:49",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712299740,
+                            "isoTime": "2024-04-05T07:49:00+01:00",
+                            "displayTime": "07:49"
+                        },
+                        "sequence": "19"
+                    },
+                    {
+                        "stopID": "6200206165",
+                        "time": "07:51",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299860,
+                            "isoTime": "2024-04-05T07:51:00+01:00",
+                            "displayTime": "07:51"
+                        },
+                        "sequence": "20"
+                    },
+                    {
+                        "stopID": "6200243650",
+                        "time": "07:55",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712300100,
+                            "isoTime": "2024-04-05T07:55:00+01:00",
+                            "displayTime": "07:55"
+                        },
+                        "sequence": "21"
+                    }
+                ]
+            },
+            {
+                "tripID": "VJd34380e74a72a2dc143d98d20bdc99cee6134877",
+                "departures": [
+                    {
+                        "stopID": "6200203555",
+                        "time": "07:39",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712299140,
+                            "isoTime": "2024-04-05T07:39:00+01:00",
+                            "displayTime": "07:39"
+                        },
+                        "sequence": "1"
+                    },
+                    {
+                        "stopID": "6200203570",
+                        "time": "07:43",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712299380,
+                            "isoTime": "2024-04-05T07:43:00+01:00",
+                            "displayTime": "07:43"
+                        },
+                        "sequence": "2"
+                    },
+                    {
+                        "stopID": "6200203580",
+                        "time": "07:44",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299440,
+                            "isoTime": "2024-04-05T07:44:00+01:00",
+                            "displayTime": "07:44"
+                        },
+                        "sequence": "3"
+                    },
+                    {
+                        "stopID": "6200203590",
+                        "time": "07:45",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299500,
+                            "isoTime": "2024-04-05T07:45:00+01:00",
+                            "displayTime": "07:45"
+                        },
+                        "sequence": "4"
+                    },
+                    {
+                        "stopID": "6200203600",
+                        "time": "07:46",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299560,
+                            "isoTime": "2024-04-05T07:46:00+01:00",
+                            "displayTime": "07:46"
+                        },
+                        "sequence": "5"
+                    },
+                    {
+                        "stopID": "6200203610",
+                        "time": "07:48",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299680,
+                            "isoTime": "2024-04-05T07:48:00+01:00",
+                            "displayTime": "07:48"
+                        },
+                        "sequence": "6"
+                    },
+                    {
+                        "stopID": "6200203630",
+                        "time": "07:49",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299740,
+                            "isoTime": "2024-04-05T07:49:00+01:00",
+                            "displayTime": "07:49"
+                        },
+                        "sequence": "7"
+                    },
+                    {
+                        "stopID": "6200203640",
+                        "time": "07:51",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299860,
+                            "isoTime": "2024-04-05T07:51:00+01:00",
+                            "displayTime": "07:51"
+                        },
+                        "sequence": "8"
+                    },
+                    {
+                        "stopID": "6200203650",
+                        "time": "07:52",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299920,
+                            "isoTime": "2024-04-05T07:52:00+01:00",
+                            "displayTime": "07:52"
+                        },
+                        "sequence": "9"
+                    },
+                    {
+                        "stopID": "6200204120",
+                        "time": "07:52",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712299920,
+                            "isoTime": "2024-04-05T07:52:00+01:00",
+                            "displayTime": "07:52"
+                        },
+                        "sequence": "10"
+                    },
+                    {
+                        "stopID": "6200204130",
+                        "time": "07:54",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712300040,
+                            "isoTime": "2024-04-05T07:54:00+01:00",
+                            "displayTime": "07:54"
+                        },
+                        "sequence": "11"
+                    },
+                    {
+                        "stopID": "6200204140",
+                        "time": "07:55",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712300100,
+                            "isoTime": "2024-04-05T07:55:00+01:00",
+                            "displayTime": "07:55"
+                        },
+                        "sequence": "12"
+                    },
+                    {
+                        "stopID": "6200204150",
+                        "time": "07:56",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712300160,
+                            "isoTime": "2024-04-05T07:56:00+01:00",
+                            "displayTime": "07:56"
+                        },
+                        "sequence": "13"
+                    },
+                    {
+                        "stopID": "6200204160",
+                        "time": "07:57",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712300220,
+                            "isoTime": "2024-04-05T07:57:00+01:00",
+                            "displayTime": "07:57"
+                        },
+                        "sequence": "14"
+                    },
+                    {
+                        "stopID": "6200204320",
+                        "time": "07:58",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712300280,
+                            "isoTime": "2024-04-05T07:58:00+01:00",
+                            "displayTime": "07:58"
+                        },
+                        "sequence": "15"
+                    },
+                    {
+                        "stopID": "6200204360",
+                        "time": "08:03",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712300580,
+                            "isoTime": "2024-04-05T08:03:00+01:00",
+                            "displayTime": "08:03"
+                        },
+                        "sequence": "16"
+                    },
+                    {
+                        "stopID": "6200204730",
+                        "time": "08:05",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712300700,
+                            "isoTime": "2024-04-05T08:05:00+01:00",
+                            "displayTime": "08:05"
+                        },
+                        "sequence": "17"
+                    },
+                    {
+                        "stopID": "6200204740",
+                        "time": "-",
+                        "isTimingPoint": false
+                    },
+                    {
+                        "stopID": "6200205200",
+                        "time": "08:08",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712300880,
+                            "isoTime": "2024-04-05T08:08:00+01:00",
+                            "displayTime": "08:08"
+                        },
+                        "sequence": "18"
+                    },
+                    {
+                        "stopID": "6200205203",
+                        "time": "08:09",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712300940,
+                            "isoTime": "2024-04-05T08:09:00+01:00",
+                            "displayTime": "08:09"
+                        },
+                        "sequence": "19"
+                    },
+                    {
+                        "stopID": "6200206165",
+                        "time": "08:11",
+                        "isTimingPoint": false,
+                        "scheduledFor": {
+                            "unixTime": 1712301060,
+                            "isoTime": "2024-04-05T08:11:00+01:00",
+                            "displayTime": "08:11"
+                        },
+                        "sequence": "20"
+                    },
+                    {
+                        "stopID": "6200243650",
+                        "time": "08:15",
+                        "isTimingPoint": true,
+                        "scheduledFor": {
+                            "unixTime": 1712301300,
+                            "isoTime": "2024-04-05T08:15:00+01:00",
+                            "displayTime": "08:15"
+                        },
+                        "sequence": "21"
+                    }
+                ]
+            }
+        ]
+    }
+}
